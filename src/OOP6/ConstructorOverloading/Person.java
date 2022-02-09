@@ -16,4 +16,9 @@ class Person {
     Person(){
         this(null,null);
     }
+
+    //test run
+    void sayperson(){
+        System.out.println("Hello " + this.name);
+    }
 }
