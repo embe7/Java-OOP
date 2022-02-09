@@ -8,6 +8,6 @@ public class CorseApp {
         System.out.println(value.Lulus());
         System.out.println(value.beginer());
         System.out.println(value.master());
-        
+
     }
 }
