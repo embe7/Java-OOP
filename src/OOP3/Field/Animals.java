@@ -1,8 +1,8 @@
 package OOP3.Field;
 
 //class
-class Animals {
+class Animals2 {
     //fields
-    String name;
-    String habitat;
+    String name2;
+    String habitat2;
 }

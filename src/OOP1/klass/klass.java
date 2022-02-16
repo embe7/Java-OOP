@@ -7,5 +7,5 @@ package OOP1.klass;
  */
 
 //kode pembuatan class
-class klass {
+class klass1 {
 }

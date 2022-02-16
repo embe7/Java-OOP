@@ -9,8 +9,8 @@ package OOP2.Object;
 public class ObjectApp {
     public static void main(String[] args) {
         //kode pembuatan object
-        Animals KuraKura = new Animals();
-        Animals kerbau = new Animals();
+        Animals1 KuraKura = new Animals1();
+        Animals1 kerbau = new Animals1();
 
         System.out.println(KuraKura);
         System.out.println(kerbau);

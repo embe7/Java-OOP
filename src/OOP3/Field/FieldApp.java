@@ -11,11 +11,11 @@ package OOP3.Field;
 public class FieldApp {
     public static void main(String[] args) {
 
-        Animals animal = new Animals();
-        animal.name = "Kura-Kura";
-        animal.habitat = "Sungai dan Danau";
+        Animals2 animal = new Animals2();
+        animal.name2 = "Kura-Kura";
+        animal.habitat2 = "Sungai dan Danau";
 
-        System.out.println(animal.name);
-        System.out.println(animal.habitat);
+        System.out.println(animal.name2);
+        System.out.println(animal.habitat2);
     }
 }

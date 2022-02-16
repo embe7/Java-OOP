@@ -1,4 +1,4 @@
 package OOP2.Object;
 
-class Animals {
+class Animals1 {
 }
