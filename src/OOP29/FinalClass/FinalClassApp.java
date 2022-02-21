@@ -19,6 +19,6 @@ final class Final extends FinalClassApp{
 
 //Error
 // class FakeFinal extends Final{
-    
+
 // }
 
