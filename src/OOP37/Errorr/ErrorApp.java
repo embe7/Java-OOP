@@ -8,6 +8,8 @@ package OOP37.Errorr;
  * - Artinya direkomendasika untuk mematikan aplikasi
  * - Contoh, misal jika diawal aplikasi kita tidak bisa terkoneksi ke database, direkomendasikan untuk membuat
  *   exception jenis error, dan menghentikan aplikasi
+ *
+ * note : exception jenis Error tidak disarankan untuk di tangkap atau di try catch
  */
 
 public class ErrorApp {
