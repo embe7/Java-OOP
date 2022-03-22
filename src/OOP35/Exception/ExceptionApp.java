@@ -1,7 +1,7 @@
 package OOP35.Exception;
 
 /**
- * ==== Exception ====
+ * ==== Exception ==== -> Pengecualian
  * - Saat kita membuat aplikasi kita tidak akan terhindar dengan yang namanya error
  * - Di java, error direpresentasikan dengan istilah exception, dan semua dipresentasikan dalam bentuk class exception
  * - Kita bisa menggunkan class exception sendiri, atau menggunakan yang sudah disediakan di java
